@@ -1,2 +1,0 @@
-# gitsaya
-all open
